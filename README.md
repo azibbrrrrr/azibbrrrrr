@@ -79,7 +79,6 @@ The rule I work by: near-real-time wrong data is worse than five-minutes-late co
 
 <div align="center">
   <img src="./metrics.stats.svg" alt="GitHub stats across personal and organisation repos" />
-  <img src="./metrics.languages.svg" alt="Most used languages across personal and organisation repos" />
 </div>
 
 ## Currently
